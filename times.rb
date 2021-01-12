@@ -1,7 +1,14 @@
 def using_times
-	#your code here
+	7.times do
+		puts "Wingardium Leviosa"
+	end
 end
 
 
 
 
+
+# x=0 
+# while x < 10 do
+# 	puts "so many loops"
+# end
